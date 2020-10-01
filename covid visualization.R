@@ -5,9 +5,6 @@ library(dplyr)
 library(COVID19)
 
 
-setwd("C:/Users/dolug/Documents")
-
-
 
 # Read datasets/confirmed_cases_worldwide.csv into confirmed_cases_worldwide
 confirmed_cases_worldwide <- read_csv("confirmed_cases_worldwide.csv")
